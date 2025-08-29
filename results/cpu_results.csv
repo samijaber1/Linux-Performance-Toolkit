@@ -1,0 +1,14 @@
+timestamp,duration,ops,real_time,usr_time,sys_time,ops_per_sec_real,ops_per_sec_cpu
+2025-08-29_19:18:43,5,info:
+metrc:
+info:,[2995]
+[2995]
+[2995],dispatching
+cpu
+passed:,hogs:
+15432
+4:,4
+5.00
+cpu,cpu
+20.00
+(4)
